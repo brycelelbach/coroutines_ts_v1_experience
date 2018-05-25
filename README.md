@@ -50,6 +50,8 @@ A number of blog posts have been written about the Coroutines TS v1:
 
 * [Ranges, Coroutines, and React: Early Musings on the Future of Async in C++ (Eric Niebler)](http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/)
 * [My First Coroutine (Kiit Saelensminde)](https://kirit.com/How%20C++%20coroutines%20work/My%20first%20coroutine)
+* [Coroutine Theory (Lewis Baker)](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
+* [C++ Coroutines: Understanding operator co_await (Lewis Baker)](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await)
 
 Talks
 =====
