@@ -69,6 +69,7 @@ Many talks have been given at major C++ conferences about the Coroutines TS v1:
 * [Putting Coroutines to Work With the Windows Runtime (Kenny Kerr and James McNellis, CppCon 2016)](https://www.youtube.com/watch?v=v0SjumbIips)
 * [Coroutines and C++ DSLs for Human Scale Concurrency (Dominic Robinson, ACCU 2017)](https://www.youtube.com/watch?v=d76cJ_RBGbY)
 * [Multidimensional Iterators Bryce Adelstein Lelbach, C++Now 2017)](https://www.youtube.com/watch?v=EVGenON6p9g)
+* [An Introduction to the Proposed Coroutine Support for C++ (Toby Allsopp, Pacific++ 2017)](https://www.youtube.com/watch?v=nWuXubffryo)
 * [Concurrency, Parallelism and Coroutines (Anthony Williams, CppCon 2017)](https://www.youtube.com/watch?v=JvHZ_OECOFU)
 * [Coroutines: What Can't They Do? (Toby Allsopp, CppCon 2017)](https://www.youtube.com/watch?v=mlP1MKP8d_Q)
 * [Naked Coroutines Live (Gor Nishanov, CppCon 2017)](https://www.youtube.com/watch?v=UL3TtTgt3oU)
