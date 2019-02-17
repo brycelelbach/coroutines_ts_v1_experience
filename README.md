@@ -52,6 +52,7 @@ A number of blog posts have been written about the Coroutines TS v1:
 * [My First Coroutine (Kiit Saelensminde)](https://kirit.com/How%20C++%20coroutines%20work/My%20first%20coroutine)
 * [Coroutine Theory (Lewis Baker)](https://lewissbaker.github.io/2017/09/25/coroutine-theory)
 * [C++ Coroutines: Understanding operator co_await (Lewis Baker)](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await)
+* [C++ Coroutines: Understanding the promise type](https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type)
 
 Talks
 =====
@@ -73,4 +74,6 @@ Many talks have been given at major C++ conferences about the Coroutines TS v1:
 * [Concurrency, Parallelism and Coroutines (Anthony Williams, CppCon 2017)](https://www.youtube.com/watch?v=JvHZ_OECOFU)
 * [Coroutines: What Can't They Do? (Toby Allsopp, CppCon 2017)](https://www.youtube.com/watch?v=mlP1MKP8d_Q)
 * [Naked Coroutines Live (Gor Nishanov, CppCon 2017)](https://www.youtube.com/watch?v=UL3TtTgt3oU)
+* [State Machine Battlefield (Kris Jusiak, CppCon 2018)](https://www.youtube.com/watch?v=yZVby-PuXM0)
+* [Nano Coroutines to the rescue! (Gor Nishanov, CppCon 2018)](https://www.youtube.com/watch?v=j9tlJAqMV7U)
 
